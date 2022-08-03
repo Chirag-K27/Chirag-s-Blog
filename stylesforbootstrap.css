@@ -1,0 +1,120 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}   
+.navbar-brand{
+    color:snow;
+    font-family: 'Montserrat', sans-serif;
+    font-size:larger
+}
+
+.navbar-brand:hover{
+    color:  #d6a691;
+}
+
+li{
+    margin-left:150px;
+    padding: 10px;
+}
+
+.nav-link{
+    color: white;
+    
+
+}
+
+.nav-link:hover{
+    color: #CCA18F;
+}
+
+.center{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 30%;
+
+}
+
+h1{
+    font-family: 'Mouse Memoirs', sans-serif;
+}
+
+h2{
+    font-family: 'Mouse Memoirs', sans-serif;
+}
+
+p a{
+    color:rgb(190, 73, 0);
+    text-decoration: none;
+}
+
+p a:hover{
+    color: pink
+}
+
+.dropdown-toggle{
+    color:snow;
+    text-decoration:none;
+}
+
+button{
+    margin-bottom:20px;
+}
+
+
+footer{
+    background-color:black;
+    color: snow;
+}
+
+.about{
+    text-decoration:none;
+    color:snow;
+}
+
+.pp{
+    text-decoration:none;
+    color:snow;
+}
+
+.tc{
+   text-decoration:none;
+   color:snow;
+}
+
+.insta{
+    text-decoration:none;
+    color:snow;
+}
+
+.tweet{
+    text-decoration:none;
+    color:snow;
+}
+
+.git{
+    text-decoration:none;
+    color:snow;
+}
+.about:hover{
+    color:#CCA18F;
+}
+
+.pp:hover{
+    color:#CCA18F;
+}
+
+.tc:hover{
+    color:#CCA18F;
+}
+
+.insta:hover{
+    color:#CCA18F;
+}
+
+.tweet:hover{
+    color:#CCA18F;
+}
+
+.git:hover{
+    color:#CCA18F;
+}
